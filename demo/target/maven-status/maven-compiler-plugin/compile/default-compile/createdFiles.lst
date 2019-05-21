@@ -1,0 +1,6 @@
+com\example\demo\DemoApplication.class
+com\example\demo\service\CustomersService.class
+com\example\demo\entity\Customers.class
+com\example\demo\dto\CustomersDTO.class
+com\example\demo\NewRestController.class
+com\example\demo\repo\CustomersRepo.class
